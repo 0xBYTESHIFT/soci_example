@@ -1,0 +1,3 @@
+[submodule "submodules/soci"]
+	path = submodules/soci
+	url = https://github.com/SOCI/soci
